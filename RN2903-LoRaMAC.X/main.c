@@ -24,6 +24,8 @@ void main(void) {
         printf("%02x", EUI64[i]);
     printf("\r\n");
         
+    //EEPROM_Dump();
+    
     while (1) {
 
     }
